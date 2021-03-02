@@ -1290,12 +1290,6 @@
   "proposedApprovalLimit": {
     "message": "Proposed Approval Limit"
   },
-  "protectYourKeys": {
-    "message": "Protect Your Keys!"
-  },
-  "protectYourKeysMessage1": {
-    "message": "Be careful with your seed phrase — there have been reports of websites that attempt to imitate MetaMask. MetaMask will never ask for your seed phrase!"
-  },
   "provide": {
     "message": "Provide"
   },
